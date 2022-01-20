@@ -9,7 +9,8 @@ namespace WinFormsApp1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            this.textBox1.Text = "Hello World!";
+            this.textBox1.Text = "Hello World2!";
+            button1.Text = "push2";
         }
     }
 }
